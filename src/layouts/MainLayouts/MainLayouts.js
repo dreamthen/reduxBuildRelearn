@@ -44,7 +44,6 @@ class MainLayouts extends PureComponent {
                 </Header>
                 <Content>
                     <Tag
-
                         color='purple'
                     >
                         {val}
